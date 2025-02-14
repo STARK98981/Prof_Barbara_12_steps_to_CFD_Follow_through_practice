@@ -1,0 +1,1 @@
+This file is my follow along for the course by Prof.Loren Barbara (https://github.com/barbagroup/CFDPython/tree/master/lessons). I would personally highly recommend going through the lessons especially for beginers with Python and CFD enthusiasts.
